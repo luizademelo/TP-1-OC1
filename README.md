@@ -1,5 +1,5 @@
 # TP-1-OC1
-Trabalho Prático 1 de Organização de Computadores 1 
+Trabalho Prático 1 de Organização de Computadores 1 - 2022/2
 ### Problema 1: 
 - inverter um vetor - totalmente certo
 ### Problema 2: 
